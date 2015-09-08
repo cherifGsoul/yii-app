@@ -5,10 +5,11 @@
     "homepage": "http://www.cherifbouchelaghem.com/",
     "type": "project",
     "license": "BSD-3-Clause",
+    "version": "2.0.6",
     "support": {
-        
+
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": ">=2.0.5",
